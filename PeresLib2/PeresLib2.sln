@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PeresLib2", "PeresLib2.csproj", "{29AA28BD-33A3-4392-9C51-513BF770B3D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exemplo2", "..\Exemplo2\Exemplo2.csproj", "{6E8AB20A-2C3F-41D5-A336-8C92F3EC89EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{29AA28BD-33A3-4392-9C51-513BF770B3D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29AA28BD-33A3-4392-9C51-513BF770B3D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29AA28BD-33A3-4392-9C51-513BF770B3D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29AA28BD-33A3-4392-9C51-513BF770B3D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E8AB20A-2C3F-41D5-A336-8C92F3EC89EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E8AB20A-2C3F-41D5-A336-8C92F3EC89EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E8AB20A-2C3F-41D5-A336-8C92F3EC89EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E8AB20A-2C3F-41D5-A336-8C92F3EC89EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DCAB8272-1CC2-4C3E-A496-A6B7664FCB27}
+	EndGlobalSection
+EndGlobal
